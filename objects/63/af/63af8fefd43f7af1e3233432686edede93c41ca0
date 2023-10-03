@@ -1,0 +1,16 @@
+{
+  "main_menu": {
+    "top_left": [],
+    "top_right": ["Amethyst SMP"],
+    "bottom_left": [],
+    "bottom_right": ["Quilt 1.20.1 (Fabric)"],
+    "mod_blacklist": []
+  },
+  "pause_menu": {
+    "top_left": [],
+    "top_right": [],
+    "bottom_left": [],
+    "bottom_right": [],
+    "mod_blacklist": []
+  }
+}
